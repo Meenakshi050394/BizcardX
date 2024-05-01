@@ -36,7 +36,7 @@ Usage
 
 To use this project, follow these steps:
 
-Clone the repository: git clone https://github.com/gopiashokan/BizCardX-Extracting-Business-Card-Data-with-OCR.git
+Clone the repository: git clone https://github.com/Meenakshi050394/BizcardX
 Run the Streamlit app: streamlit run Bizcardx.py
 Access the app in your browser at http://localhost:8501/
 
