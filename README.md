@@ -15,12 +15,12 @@ BizCardX is a Streamlit application that effortlessly streamlines business card 
 ### Packages:
 To run this project, you need to install the following packages:
 
-pip install easyocr
-pip install numpy
-pip install pandas
-pip install mysql-connector-python
-pip install streamlit
-pip install streamlit_option_menu
+#### pip install easyocr
+#### pip install numpy
+#### pip install pandas
+#### pip install mysql-connector-python
+#### pip install streamlit
+#### pip install streamlit_option_menu
 
 ### Usage
 
